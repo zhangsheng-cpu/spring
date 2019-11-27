@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-web" />
+        <module name="ch09-mvc-Interceptor" />
+        <module name="ch08-mvc-json" />
+        <module name="ch04-mvc-receive-data" />
+        <module name="ch05-mvc-validation" />
+        <module name="ch07-mvc-json" />
+        <module name="ch11-ssm-xml" />
+        <module name="ch12-ssm-xml" />
+        <module name="demo-dao" />
+        <module name="ch06-mvc-view" />
+        <module name="ch01-spring-mvc" />
+        <module name="ch15-mvc-code" />
+        <module name="ch14-servlet3" />
+        <module name="ch03-mvc-request-mapping" />
+        <module name="demo-entity" />
+        <module name="ch10-mvc-file" />
+        <module name="ch02-mvc-processflow" />
+        <module name="demo-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch07-mvc-static" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

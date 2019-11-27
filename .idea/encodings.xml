@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch01-spring-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch02-mvc-processflow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03-mvc-request-mapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04-mvc-receive-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05-mvc-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06-mvc-view" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch07-mvc-static" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch08-mvc-json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch09-mvc-Interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch10-mvc-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch11-ssm-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch12-ssm-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch13-ssm-multi-module-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch13-ssm-multi-module-parent/demo-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch13-ssm-multi-module-parent/demo-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch13-ssm-multi-module-parent/demo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch13-ssm-multi-module-parent/demo-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch14-servlet3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch15-mvc-code" charset="UTF-8" />
+  </component>
+</project>
