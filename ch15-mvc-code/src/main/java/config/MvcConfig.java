@@ -15,7 +15,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @ComponentScan("controller")
 @EnableWebMvc //等价xml的 mvc:annotation-driven
 public class MvcConfig implements WebMvcConfigurer {
-
+    //
     @Bean
     public InternalResourceViewResolver resourceViewResolver() {
         InternalResourceViewResolver internalResourceViewResolver = new InternalResourceViewResolver();
